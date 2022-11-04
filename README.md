@@ -1,6 +1,6 @@
 # Protein Emoji
 
-Files and utilities for the 2022 proposed protein emoji. 
+Files and utilities for the (rejected) 2022 proposed protein emoji. 
 
 <img width=72 src="./src/protein-72-color.svg">
 
